@@ -12,8 +12,6 @@ import kotlinx.android.synthetic.main.fragment_main.*
 import java.lang.Exception
 
 
-class MyException(str: String): Exception(str)
-
 class MainFragment : Fragment() {
 
     val RANDOM_SIZE = 65
