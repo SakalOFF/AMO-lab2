@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Лабораторна робота №2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="graph_label">Графік</string>
+    <string name="edit_label">Введіть елементи масиву:</string>
+    <string name="sort_string">Відсортувати</string>
+    <string name="random_string">Випадковий масив</string>
+</resources>
